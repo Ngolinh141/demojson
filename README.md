@@ -1,2 +1,2 @@
 # demojson
-To get fake for testing
+To get fake data for testing
